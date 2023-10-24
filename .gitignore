@@ -1,0 +1,4 @@
+GitNotesPDF.pdf
+*.pdf
+
+# Above is ignoring the PDFs in gitty folder
